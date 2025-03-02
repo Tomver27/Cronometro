@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CicloDeVida</string>
+
+    <string name="iniciar">Iniciar</string>
+    <string name="parar">Parar</string>
+    <string name="reiniciar">Reiniciar</string>
+</resources>
